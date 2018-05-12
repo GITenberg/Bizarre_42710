@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41826
     wikipedia: http://en.wikipedia.org/wiki/Alexander_Lawton_Mackall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42710#Bizarre
 gutenberg_issued: '2013-05-13'
 gutenberg_type: Text
 identifiers:
